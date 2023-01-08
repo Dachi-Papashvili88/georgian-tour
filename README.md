@@ -58,7 +58,7 @@ There are many ways to host your project for free. Best recommend hosts are:
 
 ## Author
 
-- Website - [Dachi Papashvilihttps://github.com/Dachi-Papashvili88](https://www.your-site.com)
+- Website - [Dachi Papashvili](https://github.com/Dachi-Papashvili88)
 - Scrimba - [Scrimba](https://scrimba.com/allcourses)
 - Linkedin - [Linkedin](https://www.linkedin.com/feed/)
 
