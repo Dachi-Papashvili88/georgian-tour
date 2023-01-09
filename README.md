@@ -1,5 +1,4 @@
 # Scrimba - Responsive Web Design Project - Build a product splash page
-## This is a solution to the QR code component challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 [Scrimba](https://scrimba.com/allcourses) Scrimba is the next-generation platform for learning how to code. Our screencasts enable you to interact with the code directly in the player. This way, you'll have more fun and learn faster. Our courses subjects like HTML, CSS, JavaScript, React, Vue, Angular, and more.
 
@@ -32,7 +31,7 @@ There are many ways to host your project for free. Best recommend hosts are:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 
 
@@ -49,12 +48,15 @@ There are many ways to host your project for free. Best recommend hosts are:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Viewport units
+- Box sizing
 
 
-### What I learned
+### Useful resources
 
+- [MDN](https://developer.mozilla.org/en-US/) 
 
-
+- [W3schools](https://www.w3schools.com/) 
 
 ## Author
 
@@ -64,5 +66,7 @@ There are many ways to host your project for free. Best recommend hosts are:
 
 
 ## Acknowledgments
+
+A very special thanks to Scrimba and its founder Per Harald Borgen for for such an interesting and engaging learning opportunity 
 
 
